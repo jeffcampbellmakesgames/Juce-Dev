@@ -1,0 +1,9 @@
+[submodule "Unity/Assets/Juce-Utils"]
+	path = Unity/Assets/Juce-Utils
+	url = git@github.com:jeffcampbellmakesgames/Juce-Utils.git
+[submodule "Unity/Assets/Juce-Tween"]
+	path = Unity/Assets/Juce-Tween
+	url = git@github.com:jeffcampbellmakesgames/Juce-Tween.git
+[submodule "Unity/Assets/Juce-Feedbacks"]
+	path = Unity/Assets/Juce-Feedbacks
+	url = https://github.com/jeffcampbellmakesgames/Juce-Feedbacks
