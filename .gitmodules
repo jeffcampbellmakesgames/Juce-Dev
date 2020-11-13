@@ -6,4 +6,4 @@
 	url = git@github.com:jeffcampbellmakesgames/Juce-Tween.git
 [submodule "Unity/Assets/Juce-Feedbacks"]
 	path = Unity/Assets/Juce-Feedbacks
-	url = https://github.com/jeffcampbellmakesgames/Juce-Feedbacks
+	url = git@github.com:jeffcampbellmakesgames/Juce-Feedbacks.git
